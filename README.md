@@ -4,6 +4,8 @@ App de Podcast integrada con la API de AudioBoom en aprender Next.JS
 
 ![Captura de la app](./.readme-static/screen1.png)
 
+[Ver la aplicación](https://podcasts-xoszffavoo.now.sh)
+
 ## ¿Cómo funciona?
 
 Requiere Node.JS 10
